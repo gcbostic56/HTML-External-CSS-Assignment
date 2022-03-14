@@ -1,0 +1,31 @@
+html {
+    font-family: serif;
+    color: white;
+}
+.CFH {
+    background-color: purple;
+    font-size: 400%;
+    align-self: stretch;
+    display: flex;
+    margin: 0;
+    padding-left: 1%;
+    align-items: center;
+    padding: 1%;
+
+}
+.mainrow {
+    padding-left: 5%;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    display: flex; 
+    background-color: black;
+    
+}
+
+ul 
+{
+    list-style-type: none;
+}
